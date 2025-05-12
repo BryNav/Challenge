@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="karate_qa_bgr" />
         <module name="template-karate-qa-team" />
+        <module name="karate_qa_clases_bgr" />
         <module name="karate_qa_NTTDATA" />
       </profile>
     </annotationProcessing>

@@ -13,7 +13,7 @@ public class RunnerPutGet {
 
     @Test
     void test() {
-        looger.info("Ejecutando nuestra prueba de API casos PUT-GET RETO NTTDATA CFLORES");
+        looger.info("Ejecutando nuestra prueba de API casos PUT-GET RETO NTTDATA Bryan Navarrete");
         Results results =
                 com.intuit.karate.Runner.path("classpath:bdd/product/PetStorePut-Get.feature")
                         .tags("@plan-de-pruebas-PUT-GET")

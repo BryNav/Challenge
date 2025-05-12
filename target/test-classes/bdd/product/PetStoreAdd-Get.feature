@@ -1,5 +1,5 @@
 @plan-de-pruebas-ADD-GET
-Feature: Certificar URL "https://petstore.swagger.io/" reto NTTDATA
+Feature: Certificar end point "https://petstore.swagger.io/" reto NTTDATA
 
   Background:
     * url urlBase
